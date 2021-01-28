@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+#first{
+    width: 500px;
+    height: 300px;
+    background-color: aqua;
+    float: left;
+
+}
+#second{
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+    
+}
